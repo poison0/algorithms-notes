@@ -7,7 +7,7 @@ import com.company.util.Example;
  */
 public class Selecting extends Example {
     @Override
-    public void sort(Comparable[] a) {
+    public void sort(Comparable[] a) throws InterruptedException {
         int N = a.length;
         for (int i = 0; i < N; i++) {
             int min = i;
