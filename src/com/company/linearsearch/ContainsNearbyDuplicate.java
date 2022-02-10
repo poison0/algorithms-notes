@@ -1,9 +1,6 @@
 package com.company.linearsearch;
 
-import java.util.Arrays;
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Set;
 
 public class ContainsNearbyDuplicate {
 	public boolean containsNearbyDuplicate(int[] nums, int k) {
