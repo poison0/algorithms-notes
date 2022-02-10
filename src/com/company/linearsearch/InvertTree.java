@@ -1,7 +1,5 @@
 package com.company.linearsearch;
 
-import com.sun.source.tree.Tree;
-
 public class InvertTree {
 	public TreeNode invertTree(TreeNode root) {
 		invert(root);
